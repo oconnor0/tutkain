@@ -35,7 +35,15 @@ A bare-bones [Clojure] nREPL client for [Sublime Text].
 
 ### Windows & Linux
 
-None yet. Contributions welcome.
+| Command | Binding |
+| ------------- | ------------- |
+| Connect | <kbd>Ctrl</kbd> + <kbd>R</kbd>, <kbd>Ctrl</kbd> + <kbd>C</kbd> |
+| Evaluate Form | <kbd>Ctrl</kbd> + <kbd>R</kbd>, <kbd>Ctrl</kbd> + <kbd>F</kbd> |
+| Evaluate View | <kbd>Ctrl</kbd> + <kbd>R</kbd>, <kbd>Ctrl</kbd> + <kbd>V</kbd> |
+| Evaluate Input | <kbd>Ctrl</kbd> + <kbd>R</kbd>, <kbd>Ctrl</kbd> + <kbd>I</kbd> |
+| Disconnect | <kbd>Ctrl</kbd> + <kbd>R</kbd>, <kbd>Ctrl</kbd> + <kbd>D</kbd> |
+| Show Output Panel | <kbd>Ctrl</kbd> + <kbd>R</kbd>, <kbd>Ctrl</kbd> + <kbd>O</kbd> |
+| Clear Output Panel | <kbd>Ctrl</kbd> + <kbd>R</kbd>, <kbd>Ctrl</kbd> + <kbd>X</kbd> |
 
 ## Design
 

@@ -1,0 +1,37 @@
+[
+  {
+      "keys": ["ctrl+r", "ctrl+c"],
+      "command": "tutkain_connect",
+      "context": [{"key": "tutkain.should"}]
+  },
+  {
+      "keys": ["ctrl+r", "ctrl+d"],
+      "command": "tutkain_disconnect",
+      "context": [{"key": "tutkain.should"}]
+  },
+  {
+      "keys": ["ctrl+r", "ctrl+o"],
+      "command": "tutkain_toggle_output_panel",
+      "context": [{"key": "tutkain.should"}]
+  },
+  {
+    "keys": ["ctrl+r", "ctrl+v"],
+    "command": "tutkain_evaluate_view",
+    "context": [{"key": "tutkain.should"}]
+  },
+  {
+    "keys": ["ctrl+r", "ctrl+f"],
+    "command": "tutkain_evaluate_form",
+    "context": [{"key": "tutkain.should"}]
+  },
+  {
+    "keys": ["ctrl+r", "ctrl+i"],
+    "command": "tutkain_evaluate_input",
+    "context": [{"key": "tutkain.should"}]
+  },
+  {
+    "keys": ["ctrl+r", "ctrl+x"],
+    "command": "tutkain_clear_output_panel",
+    "context": [{"key": "tutkain.should"}]
+  }
+]
